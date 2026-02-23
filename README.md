@@ -18,6 +18,5 @@ Experienced Ruby on Rails Developer with 4+ years of experience building scalabl
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=punitpdev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
